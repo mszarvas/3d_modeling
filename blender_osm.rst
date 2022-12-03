@@ -7,7 +7,7 @@ Use
 #. Access via Side-panel (N key) > osm
 #. Select the geographical area to cover
    
-   * ``Extent>select``
+   * ``Extent > select``
    * configure via the web-map that pops up
    * Press ``Copy`` on the web-page
    * Press ``Extent > paste`` in OSM plugin side panel
@@ -49,3 +49,5 @@ Install
 * Set up assets directory: blender_osm/assets
 * Unzip contents of assets.zip to become blender_osm/assets
 * ArcGIS and Mapbox are not needed (satellite image quality subpar)
+.. image:: img/blender_osm_initial_config.png
+
