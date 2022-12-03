@@ -50,4 +50,4 @@ Install
 * Unzip contents of assets.zip to become blender_osm/assets
 * ArcGIS and Mapbox are not needed (satellite image quality subpar)
 .. image:: img/blender_osm_initial_config.png
-
+   :width: 400px
