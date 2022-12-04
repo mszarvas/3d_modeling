@@ -12,8 +12,8 @@ Use
    * Press ``Copy`` on the web-page
    * Press ``Extent > paste`` in OSM plugin side panel
 
-#. Download terrain first (buildings do not work well with terrain)
-#. Download image overlay next
+#. Download terrain first (only if needed; buildings do not work well with terrain)
+#. Download image overlay (satellite or map) next
 
    * ``Settings > Overlay: Custom URL``
    * ``Overlay URL:``
