@@ -7,5 +7,5 @@ Bevel modifier: control which edges it applies to
     - Select all edges that need the bevel
     - ``Bevel weight = 1.0``
 
-.. image:: img/bevel_on_edge.png
+.. image:: img/bevel_one_edge.png
     :width: 500px
