@@ -6,3 +6,6 @@ Bevel modifier: control which edges it applies to
 #. Edit mode
     - Select all edges that need the bevel
     - ``Bevel weight = 1.0``
+
+.. image:: img/bevel_on_edge.png
+    :width: 500px
